@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MyConsoleApp {
-    class Program {
+    class Program2 {
         static void Main(string[] args) {
             Console.WriteLine("Hello Git!");
             Console.WriteLine("Feature!");
